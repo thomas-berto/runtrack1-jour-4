@@ -1,0 +1,37 @@
+body
+{background-color:lightBlue;
+}
+.gauche
+{float:left;
+border: 5px outset aqua;
+border-color: aqua;
+background-color:lightBlue;
+margin:0 auto;
+box-sizing: border-box;
+width: 50%;
+padding: 5px;
+text-shadow: 2px 2px 5px blue;
+
+}
+
+.titre
+{word-spacing: 0.5em;
+ text-shadow: 2px 2px 5px purple;
+
+}
+.toto
+{font-family:courier new ;
+}
+.trois bis
+{float:right;
+}
+.messi
+{text-shadow: 2px 2px 5px red;
+padding-top:40px;
+position: relative;
+}
+
+#bot {
+	postition: absolute;
+	bottom: 0px;
+}
